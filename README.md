@@ -5,3 +5,4 @@ PSSIONATE About:Gaming
 
 
 ![gaming](https://img.shields.io/badge/gaming-red)
+![startoup](https://img.shields.io/badge/startoup-yellow)
